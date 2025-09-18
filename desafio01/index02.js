@@ -1,5 +1,3 @@
-//Design Pattern: Singleton
-
 class Config {
   constructor() {
     if (Config.instance) {
